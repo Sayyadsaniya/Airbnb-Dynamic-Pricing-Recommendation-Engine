@@ -30,9 +30,7 @@ Redundant / Low-value Columns:
 
 id, host_id are likely identifiers only.
 
-Potential to drop or consolidate fields depending on analysis goals.
 
-I will now proceed to clean this dataset and provide a downloadable cleaned version along with a concise summary. 
 
 Cleaned Dataset Summary: Download Cleaned CSV
 Total Rows: 231,790
